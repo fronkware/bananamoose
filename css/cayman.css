@@ -194,6 +194,6 @@ a:hover { text-decoration: underline; }
 /*where I break things */
 
 #longmoose {
-    background: black url(longmoose.jpg) center no-repeat;
+    background: black url(imgs/longmoose.jpg) center no-repeat;
     height: 200px;
 }
